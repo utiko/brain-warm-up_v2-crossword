@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'BWUTest2Crossword' target in the 'BWUTest2Crossword' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
